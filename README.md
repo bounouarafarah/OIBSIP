@@ -9,6 +9,7 @@ Projets réalisés dans le cadre du stage **Data Science** chez **Oasis Infobyte
 | 1 | Classification des fleurs Iris | Classification des espèces d'iris à partir de leurs mesures | [Voir](./DataScience-Task1-IrisClassification) |
 | 2 | Détection de spam | Classification de messages en spam / non-spam | [Voir](./DataScience-Task2-SpamDetection) |
 | 3 | Prédiction des ventes | Prédiction des ventes à partir des budgets publicitaires (TV, Radio, Journaux) | [Voir](./DataScience-Task3-SalesPrediction/sales_prediction.ipynb) |
+| 4 | Unemployment Analysis (India, COVID-19) | [DataScience-Task4-UnemploymentAnalysis](./DataScience-Task4-UnemploymentAnalysis) |
 
 ## 🛠️ Outils
 
